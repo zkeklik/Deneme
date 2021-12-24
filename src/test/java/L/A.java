@@ -7,5 +7,9 @@ public class A {
         System.out.println("door");
         System.out.println("");
         System.out.println("2");
+        System.out.println();
+        System.out.println("-----------");
+
+
     }
 }

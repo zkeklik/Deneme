@@ -6,5 +6,6 @@ public class A {
         System.out.println("cat and dog");
         System.out.println("door");
         System.out.println("");
+        System.out.println("2");
     }
 }
